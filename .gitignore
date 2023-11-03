@@ -1,0 +1,59 @@
+# ===================================== #
+#ignore thumbnails created by windows
+#Ignore files build by Visual Studio
+# ===================================== #
+*.log
+#*.dll
+*.obj
+#*.exe
+*.pdb
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+#*.sln
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+#*.lib
+*.sbr
+*.sdf
+*.ipch
+*.txt
+*.RPT
+*.dmp
+*.opensdf
+*.tlog
+*.cache
+*.h_sweet
+
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+*.pidb
+*.suo
+#*.sln
+*.user
+*.unityproj
+*.booproj
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
