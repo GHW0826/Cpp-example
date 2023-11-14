@@ -24,6 +24,11 @@ cmake .
 - protobuf
 https://github.com/protocolbuffers/protobuf
 
+https://github.com/protocolbuffers/protobuf
+cd protobuf
+git submodule update --init
+cmake .
+
 
 - gRPC에 protobuf, abseil 라이브러리 필요함
 
